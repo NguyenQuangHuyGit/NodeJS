@@ -23,7 +23,8 @@
   "homepage": "https://github.com/NguyenQuangHuyGit/NodeJS#readme",
   "dependencies": {
     "express": "^4.18.2",
-    "express-handlebars": "^6.0.7"
+    "express-handlebars": "^6.0.7",
+    "mongoose": "^7.0.0"
   },
   "devDependencies": {
     "morgan": "^1.10.0",
